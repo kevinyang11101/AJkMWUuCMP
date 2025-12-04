@@ -1,0 +1,2 @@
+# AJkMWUuCMP
+本系统是一款基于SpringBoot的电影会员管理系统，核心功能为会员管理。系统采用前后端分离架构，前端Vue.js与Element-UI搭建单页面应用，后端运用SpringBoot和MyBatis，数据库为MySQL。主要提供会员列表展示，便于管理人员掌握会员信息，高效实现对会员资料的有效管理。
